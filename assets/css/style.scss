@@ -196,6 +196,16 @@ hr .nice-hr {
   max-height:1px !important;
 }
 
+/* make background of tiles cover only text */
+
+.card-img-overlay { 
+  height: 3em !important;
+}
+
+.card-img-overlay:hover { 
+  height: 5em !important;
+}
+
 
 
 
